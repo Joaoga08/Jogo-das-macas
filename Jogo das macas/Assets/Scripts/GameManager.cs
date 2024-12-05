@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     public static GameManager instance;
 
     public Vector2 ScreenBounds { get => screenBounds; }
-
+    //atrjr4eer
     private void Awake()
     {
         instance = this;
